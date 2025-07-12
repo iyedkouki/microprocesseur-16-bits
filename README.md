@@ -10,4 +10,10 @@ The second image provides the instruction set with their 4-bit opcodes and actio
 ![image](https://github.com/user-attachments/assets/d89619da-5e7b-43ca-87c2-3aeff2905f56)
 ## ALU Operations (alufs)
 <img width="281" height="227" alt="Capture d’écran 2025-07-11 213417" src="https://github.com/user-attachments/assets/125156f8-31fd-4be3-bc3a-f6a412d4fc61" />
+## 16-Bit Microprocessor Simulation: Memory Operations in Action
+Watch our VHDL-designed 16-bit microprocessor in action! This video showcases the simulation of core memory operations, including LOAD and STORE, executed by a custom state machine. Explore how the processor handles data flow and address transitions,
+
+
+
+https://github.com/user-attachments/assets/a0f9d59f-6b1f-49d2-abde-22c8e7fd4646
 
